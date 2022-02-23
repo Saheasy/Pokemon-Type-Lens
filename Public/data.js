@@ -46,4 +46,12 @@ global.types = {
     "dark_fight": [dark,fight,4],"fight_steel": [fight,steel,3], "flying": [flying, flying, 3], 
     "poison_flying": [poison,flying,3],"poison_dragon": [poison,dragon,3],"ground_flying": [ground,flying,3], 
     "ground_dark": [ground,dark,3], "rock_electric": [rock,electric,3],"rock_ice": [rock,ice,3],
+    "bug_fight": [bug,fight,3],"ghost_flying": [ghost,flying,3],"ghost_poison": [ghost, poison, 3],
+    "steel_flying": [steel,flying,3], "steel_ghost": [steel, ghost, 3], "fire_ground": [fire,ground,3],
+    "water_fight": [water, fight, 3],"water_ghost": [water,ghost,29], "water_grass": [water, grass, 3], 
+    "water_electric": [water,electric,3],"water_dragon": [water, dragon, 3],"grass_steel": [grass,steel,3], 
+    "electric_grass": [electric, grass, 3], "psychic_fire": [psychic,fire,3],"ice_ground": [ice, ground, 3],
+    "dragon_fire": [dragon,fire,3], "dragon_electric": [dragon, electric, 3], "dragon_psychic": [dragon,psychic,3],
+    "dark_fire": [dark, fire, 3],"dark_psychic": [dark,psychic,3], "dark_fairy": [dark, fairy, 3],
+    "fairy_flying": [fairy,flying,3],"normal_ground": [normal, ground, 2],"normal_ghost": [normal,ghost,2], 
 }
