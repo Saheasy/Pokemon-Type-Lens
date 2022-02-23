@@ -1,0 +1,2584 @@
+{
+    "lens_id": "",
+    "document_id": "i0-Y378GnCtuEQ9wdIqq",
+    "original_document_id": "5IqyqZEys7DM03BIqS6d",
+    "version": "29",
+    "lastChanged": "1645626528926",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Image"
+                    ],
+                    [
+                        "Image 2"
+                    ],
+                    [
+                        "ImageCycle"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Image"
+                    ],
+                    [
+                        "Textures",
+                        "Image 2"
+                    ],
+                    [
+                        "Types"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Bug"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Dark"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Dragon"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Electric"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Fairy"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Fighting"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Fire"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Flying"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Ghost"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Grass"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Ground"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Ice"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Normal"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Poison"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Psychic"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Rock"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Steel"
+                    ],
+                    [
+                        "Types",
+                        "PokemonType_Water"
+                    ],
+                    [
+                        "data"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1578438721408754:135903"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "51b2d9ede6c6a4b810927defc7114bcc",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_open_your_mouth"
+            ],
+            "lens": "Best Buds",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Open Mouth Person 5.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1578438779137861:138421"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1578438609941880:135478",
+                    "name": "Files\/File4.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1578438773296461:138252",
+                    "name": "Files\/File7.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1578439353746973:149589",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1645600094987947:6963275",
+                    "name": "Files\/File71.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1645600095258465:6963300",
+                    "name": "Files\/File74.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1645600095507591:6963476",
+                    "name": "Files\/File77.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1645600095815140:6963661",
+                    "name": "Files\/File80.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1645600096117540:6963691",
+                    "name": "Files\/File83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1645600096491062:6963887",
+                    "name": "Files\/File86.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1645600096749069:6963914",
+                    "name": "Files\/File89.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1645600096974998:6963937",
+                    "name": "Files\/File92.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1645600097220651:6964143",
+                    "name": "Files\/File95.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1645600097535745:6964367",
+                    "name": "Files\/File98.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1645600097796651:6964386",
+                    "name": "Files\/File101.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1645600098029330:6964612",
+                    "name": "Files\/File104.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1645600098412964:6964643",
+                    "name": "Files\/File107.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1645600098752643:6964887",
+                    "name": "Files\/File110.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1645600099127506:6965121",
+                    "name": "Files\/File113.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1645600099453981:6965163",
+                    "name": "Files\/File116.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1645600099686156:6965410",
+                    "name": "Files\/File119.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1645600099911342:6965433",
+                    "name": "Files\/File122.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1645600754786514:7045300",
+                    "name": "Files\/File143.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1645600820169101:7052491",
+                    "name": "Files\/File147",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1645624898460946:5090",
+                    "name": "Files\/File149.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1578438715820473:135680",
+                "4": "1578438721408754:135903",
+                "5": "1578438721409016:135904",
+                "6": "1578438779137861:138421",
+                "7": "1645578682836152:4937219",
+                "8": "1645600576112708:7024347",
+                "9": "1645625113554432:24819"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.pvr"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.pvr"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.pvr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.pvr"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.pvr"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.pvr"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.png"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.png"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.pvr"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.png"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.png"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.pvr"
+                },
+                {
+                    "k": "78",
+                    "v": "Files\/File78.png"
+                },
+                {
+                    "k": "79",
+                    "v": "Files\/File79.png"
+                },
+                {
+                    "k": "80",
+                    "v": "Files\/File80.pvr"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81.png"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.png"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.pvr"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84.png"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.png"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.png"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.pvr"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.png"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91.png"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.pvr"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93.png"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.png"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.pvr"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.png"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.png"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.pvr"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.pvr"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.png"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103.png"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.pvr"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.png"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107.pvr"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.png"
+                },
+                {
+                    "k": "109",
+                    "v": "Files\/File109.png"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.pvr"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.png"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "113",
+                    "v": "Files\/File113.pvr"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.png"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.png"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116.pvr"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.png"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.png"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.pvr"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.png"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.png"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.pvr"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.png"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.png"
+                },
+                {
+                    "k": "125",
+                    "v": "Files\/File125.pvr"
+                },
+                {
+                    "k": "126",
+                    "v": "Files\/File126.pvr"
+                },
+                {
+                    "k": "127",
+                    "v": "Files\/File127.pvr"
+                },
+                {
+                    "k": "128",
+                    "v": "Files\/File128.pvr"
+                },
+                {
+                    "k": "129",
+                    "v": "Files\/File129.pvr"
+                },
+                {
+                    "k": "130",
+                    "v": "Files\/File130.pvr"
+                },
+                {
+                    "k": "131",
+                    "v": "Files\/File131.pvr"
+                },
+                {
+                    "k": "132",
+                    "v": "Files\/File132.pvr"
+                },
+                {
+                    "k": "133",
+                    "v": "Files\/File133.pvr"
+                },
+                {
+                    "k": "134",
+                    "v": "Files\/File134.pvr"
+                },
+                {
+                    "k": "135",
+                    "v": "Files\/File135.pvr"
+                },
+                {
+                    "k": "136",
+                    "v": "Files\/File136.pvr"
+                },
+                {
+                    "k": "137",
+                    "v": "Files\/File137.pvr"
+                },
+                {
+                    "k": "138",
+                    "v": "Files\/File138.pvr"
+                },
+                {
+                    "k": "139",
+                    "v": "Files\/File139.pvr"
+                },
+                {
+                    "k": "140",
+                    "v": "Files\/File140.pvr"
+                },
+                {
+                    "k": "141",
+                    "v": "Files\/File141.pvr"
+                },
+                {
+                    "k": "142",
+                    "v": "Files\/File142.pvr"
+                },
+                {
+                    "k": "143",
+                    "v": "Files\/File143.pvr"
+                },
+                {
+                    "k": "144",
+                    "v": "Files\/File144.pvr"
+                },
+                {
+                    "k": "145",
+                    "v": "Files\/File145.png"
+                },
+                {
+                    "k": "146",
+                    "v": "Files\/File146.pvr"
+                },
+                {
+                    "k": "147",
+                    "v": "Files\/File147"
+                },
+                {
+                    "k": "148",
+                    "v": "Files\/File148.lsmat"
+                },
+                {
+                    "k": "149",
+                    "v": "Files\/File149.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "780",
+                        "v": "ImageCycle.js"
+                    },
+                    {
+                        "k": "781",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "782",
+                        "v": "Textures\/Image.png"
+                    },
+                    {
+                        "k": "784",
+                        "v": "Types"
+                    },
+                    {
+                        "k": "794",
+                        "v": "Image.lsmat"
+                    },
+                    {
+                        "k": "801",
+                        "v": "Types\/PokemonType_Bug.png"
+                    },
+                    {
+                        "k": "802",
+                        "v": "Types\/PokemonType_Dark.png"
+                    },
+                    {
+                        "k": "803",
+                        "v": "Types\/PokemonType_Dragon.png"
+                    },
+                    {
+                        "k": "804",
+                        "v": "Types\/PokemonType_Electric.png"
+                    },
+                    {
+                        "k": "805",
+                        "v": "Types\/PokemonType_Fairy.png"
+                    },
+                    {
+                        "k": "806",
+                        "v": "Types\/PokemonType_Fighting.png"
+                    },
+                    {
+                        "k": "807",
+                        "v": "Types\/PokemonType_Fire.png"
+                    },
+                    {
+                        "k": "808",
+                        "v": "Types\/PokemonType_Flying.png"
+                    },
+                    {
+                        "k": "809",
+                        "v": "Types\/PokemonType_Ghost.png"
+                    },
+                    {
+                        "k": "810",
+                        "v": "Types\/PokemonType_Grass.png"
+                    },
+                    {
+                        "k": "811",
+                        "v": "Types\/PokemonType_Ground.png"
+                    },
+                    {
+                        "k": "812",
+                        "v": "Types\/PokemonType_Ice.png"
+                    },
+                    {
+                        "k": "813",
+                        "v": "Types\/PokemonType_Normal.png"
+                    },
+                    {
+                        "k": "814",
+                        "v": "Types\/PokemonType_Poison.png"
+                    },
+                    {
+                        "k": "815",
+                        "v": "Types\/PokemonType_Psychic.png"
+                    },
+                    {
+                        "k": "816",
+                        "v": "Types\/PokemonType_Rock.png"
+                    },
+                    {
+                        "k": "817",
+                        "v": "Types\/PokemonType_Steel.png"
+                    },
+                    {
+                        "k": "818",
+                        "v": "Types\/PokemonType_Water.png"
+                    },
+                    {
+                        "k": "819",
+                        "v": "Textures\/Image 2.pvr"
+                    },
+                    {
+                        "k": "820",
+                        "v": "Image 2.lsmat"
+                    },
+                    {
+                        "k": "821",
+                        "v": "data.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "779",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "780",
+                        "v": "3e5c2d28ebaa7a0d20aee7929ce11779"
+                    },
+                    {
+                        "k": "782",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "783",
+                        "v": "5f1208222490f840f9aa51ed04342a00"
+                    },
+                    {
+                        "k": "785",
+                        "v": "a09c1024e02b4bad78f4ecd2f54a54d4"
+                    },
+                    {
+                        "k": "786",
+                        "v": "4738536a9e4e92cf33d300f5b9845255"
+                    },
+                    {
+                        "k": "787",
+                        "v": "9abf7a61ceac380792ceae7afe354be8"
+                    },
+                    {
+                        "k": "788",
+                        "v": "024db787b2f8ccb013172af11d510a59"
+                    },
+                    {
+                        "k": "789",
+                        "v": "095483ce1723f8264fb8b729fdc685a1"
+                    },
+                    {
+                        "k": "790",
+                        "v": "d50d1b174a1c81f9ce28ad14b4b1fca9"
+                    },
+                    {
+                        "k": "791",
+                        "v": "22a12316933cc59125cf702923f92036"
+                    },
+                    {
+                        "k": "792",
+                        "v": "1c7d80410a43fd2c55195741c601c7b1"
+                    },
+                    {
+                        "k": "793",
+                        "v": "30eae5c21517567aa8fe132e4a0c5f13"
+                    },
+                    {
+                        "k": "794",
+                        "v": "c463bf0a08c0e519ac9224d0ada55c7d"
+                    },
+                    {
+                        "k": "795",
+                        "v": "538077df6c4807bf472515f79f21adae"
+                    },
+                    {
+                        "k": "796",
+                        "v": "592c3ac1fb22102cfc6b24d460ec72fd"
+                    },
+                    {
+                        "k": "797",
+                        "v": "485aa728a779e672e11833b2f7f1cd09"
+                    },
+                    {
+                        "k": "798",
+                        "v": "96e85610c5b361a2ff3d6540a49f0c14"
+                    },
+                    {
+                        "k": "799",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "800",
+                        "v": "072a3c8e19e731bace0c05f89f99dd25"
+                    },
+                    {
+                        "k": "801",
+                        "v": "e20f6d20d723cb41c459b5bf58a9cbc4"
+                    },
+                    {
+                        "k": "802",
+                        "v": "f194ac979940f7b682119eaacd678490"
+                    },
+                    {
+                        "k": "803",
+                        "v": "a72d17b15caf76869f838405f39db771"
+                    },
+                    {
+                        "k": "804",
+                        "v": "5cfd35f08f6e838e50d946772c29e571"
+                    },
+                    {
+                        "k": "805",
+                        "v": "044cfc21f12956a96dc176707ac20829"
+                    },
+                    {
+                        "k": "806",
+                        "v": "d6426ce32cb7bdf0206d2b16702349cb"
+                    },
+                    {
+                        "k": "807",
+                        "v": "88ee555b7244c2d0da60296032680c3c"
+                    },
+                    {
+                        "k": "808",
+                        "v": "5a2ad3ab47128fea967a9ec7b2d7e58e"
+                    },
+                    {
+                        "k": "809",
+                        "v": "49bdeda1d5ce28b5ff01a2d7201ce528"
+                    },
+                    {
+                        "k": "810",
+                        "v": "e2d76ce034e830bbd7f017b9736065d1"
+                    },
+                    {
+                        "k": "811",
+                        "v": "3f4d52626725e168fe71bfd70ac44f09"
+                    },
+                    {
+                        "k": "812",
+                        "v": "a305ff4b9cb734bb85d831e540127022"
+                    },
+                    {
+                        "k": "813",
+                        "v": "94b4b59d5585be5c10dd541e0b969c59"
+                    },
+                    {
+                        "k": "814",
+                        "v": "6189516e06a8a982da79ff6b16122375"
+                    },
+                    {
+                        "k": "815",
+                        "v": "9bf74795625c364a54245168ef13dee6"
+                    },
+                    {
+                        "k": "816",
+                        "v": "3d12d415514db565b5fd4215ca6b2230"
+                    },
+                    {
+                        "k": "817",
+                        "v": "306ea8472100404d11bee987473bb957"
+                    },
+                    {
+                        "k": "818",
+                        "v": "230c15765a1428d13d88c72b5c8de42f"
+                    },
+                    {
+                        "k": "819",
+                        "v": "c7883f4d3d4d72d3627490c7e5c31786"
+                    },
+                    {
+                        "k": "820",
+                        "v": "b73ce83df9ed1644d8ca72911752247d"
+                    },
+                    {
+                        "k": "821",
+                        "v": "eedfde3b05245e15b25f9df1d229f92f"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-02-23T08:28:38",
+                        "name": "Public",
+                        "hash": "ffb458f668b775e54e65c61568383972",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-23T08:28:38",
+                                "name": "data.js",
+                                "hash": "eedfde3b05245e15b25f9df1d229f92f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-22T05:48:34",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-22T05:48:34",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-22T05:49:52",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-23T01:20:20",
+                                "name": "Image 2.lsmat",
+                                "hash": "b73ce83df9ed1644d8ca72911752247d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-23T01:19:58",
+                                "name": "Image.lsmat",
+                                "hash": "c463bf0a08c0e519ac9224d0ada55c7d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-02-23T08:12:57",
+                                "name": "ImageCycle.js",
+                                "hash": "3e5c2d28ebaa7a0d20aee7929ce11779",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-23T01:19:14",
+                                "name": "Textures",
+                                "hash": "f29e7eaf756c53c38b0db435f83edebd",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-22T05:49:52",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-22T05:51:11",
+                                        "name": "Image 2.pvr",
+                                        "hash": "c7883f4d3d4d72d3627490c7e5c31786",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-22T05:48:34",
+                                        "name": "Image.png",
+                                        "hash": "54b5e21104a4a7f86b3d510596fdc27e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-02-23T01:08:50",
+                                "name": "Types",
+                                "hash": "3c4698438cac58b692559132fd8c09a3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-22T05:49:52",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:59:10",
+                                        "name": "PokemonType_Bug.png",
+                                        "hash": "e20f6d20d723cb41c459b5bf58a9cbc4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:01:02",
+                                        "name": "PokemonType_Dark.png",
+                                        "hash": "f194ac979940f7b682119eaacd678490",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:02:21",
+                                        "name": "PokemonType_Dragon.png",
+                                        "hash": "a72d17b15caf76869f838405f39db771",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:59:40",
+                                        "name": "PokemonType_Electric.png",
+                                        "hash": "5cfd35f08f6e838e50d946772c29e571",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:02:00",
+                                        "name": "PokemonType_Fairy.png",
+                                        "hash": "044cfc21f12956a96dc176707ac20829",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:00:18",
+                                        "name": "PokemonType_Fighting.png",
+                                        "hash": "d6426ce32cb7bdf0206d2b16702349cb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:54:53",
+                                        "name": "PokemonType_Fire.png",
+                                        "hash": "88ee555b7244c2d0da60296032680c3c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:57:37",
+                                        "name": "PokemonType_Flying.png",
+                                        "hash": "5a2ad3ab47128fea967a9ec7b2d7e58e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:01:43",
+                                        "name": "PokemonType_Ghost.png",
+                                        "hash": "49bdeda1d5ce28b5ff01a2d7201ce528",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:55:24",
+                                        "name": "PokemonType_Grass.png",
+                                        "hash": "e2d76ce034e830bbd7f017b9736065d1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:56:31",
+                                        "name": "PokemonType_Ground.png",
+                                        "hash": "3f4d52626725e168fe71bfd70ac44f09",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:57:58",
+                                        "name": "PokemonType_Ice.png",
+                                        "hash": "a305ff4b9cb734bb85d831e540127022",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:54:11",
+                                        "name": "PokemonType_Normal.png",
+                                        "hash": "94b4b59d5585be5c10dd541e0b969c59",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:00:44",
+                                        "name": "PokemonType_Poison.png",
+                                        "hash": "6189516e06a8a982da79ff6b16122375",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:01:25",
+                                        "name": "PokemonType_Psychic.png",
+                                        "hash": "9bf74795625c364a54245168ef13dee6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:57:17",
+                                        "name": "PokemonType_Rock.png",
+                                        "hash": "3d12d415514db565b5fd4215ca6b2230",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T01:00:02",
+                                        "name": "PokemonType_Steel.png",
+                                        "hash": "306ea8472100404d11bee987473bb957",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-02-23T00:55:10",
+                                        "name": "PokemonType_Water.png",
+                                        "hash": "230c15765a1428d13d88c72b5c8de42f",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "40",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": {
+                            "originHash": "671afbc1d6810060ccbaac866a91cfa1"
+                        }
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "41",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": {
+                            "originHash": "8e599835d0d45c5879eafb1f474469cd"
+                        }
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "781",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Image",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1578438773296461:138252",
+                                "fileId": "7",
+                                "originalId": "8",
+                                "publicId": "782",
+                                "source": "C:\/Users\/Nick\/AppData\/Local\/Temp\/Lens Studio-gEEgMw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Image 2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600754786514:7045300",
+                                "fileId": "143",
+                                "originalId": "144",
+                                "publicId": "819",
+                                "source": "C:\/Users\/Nick\/AppData\/Local\/Temp\/Lens Studio-gEEgMw\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "c7883f4d3d4d72d3627490c7e5c31786"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ImageCycle",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "11",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1578438609941880:135478",
+                        "fileId": "4",
+                        "originalId": "18446744073709551615",
+                        "publicId": "780",
+                        "source": "D:\/Documents\/SnapLens\/_Scripts\/texturechange_update.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Types",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "784",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "PokemonType_Bug",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "31",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600094987947:6963275",
+                                "fileId": "71",
+                                "originalId": "72",
+                                "publicId": "801",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Bug.png",
+                                "additional": {
+                                    "originHash": "e20f6d20d723cb41c459b5bf58a9cbc4"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Dark",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600095258465:6963300",
+                                "fileId": "74",
+                                "originalId": "75",
+                                "publicId": "802",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Dark.png",
+                                "additional": {
+                                    "originHash": "f194ac979940f7b682119eaacd678490"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Dragon",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "33",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600095507591:6963476",
+                                "fileId": "77",
+                                "originalId": "78",
+                                "publicId": "803",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Dragon.png",
+                                "additional": {
+                                    "originHash": "a72d17b15caf76869f838405f39db771"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Electric",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600095815140:6963661",
+                                "fileId": "80",
+                                "originalId": "81",
+                                "publicId": "804",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Electric.png",
+                                "additional": {
+                                    "originHash": "5cfd35f08f6e838e50d946772c29e571"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Fighting",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "36",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600096491062:6963887",
+                                "fileId": "86",
+                                "originalId": "87",
+                                "publicId": "806",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Fighting.png",
+                                "additional": {
+                                    "originHash": "d6426ce32cb7bdf0206d2b16702349cb"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Fire",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600096749069:6963914",
+                                "fileId": "89",
+                                "originalId": "90",
+                                "publicId": "807",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Fire.png",
+                                "additional": {
+                                    "originHash": "88ee555b7244c2d0da60296032680c3c"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Ghost",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600097220651:6964143",
+                                "fileId": "95",
+                                "originalId": "96",
+                                "publicId": "809",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Ghost.png",
+                                "additional": {
+                                    "originHash": "49bdeda1d5ce28b5ff01a2d7201ce528"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Grass",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "40",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600097535745:6964367",
+                                "fileId": "98",
+                                "originalId": "99",
+                                "publicId": "810",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Grass.png",
+                                "additional": {
+                                    "originHash": "e2d76ce034e830bbd7f017b9736065d1"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Ground",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "41",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600097796651:6964386",
+                                "fileId": "101",
+                                "originalId": "102",
+                                "publicId": "811",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Ground.png",
+                                "additional": {
+                                    "originHash": "3f4d52626725e168fe71bfd70ac44f09"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Ice",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "42",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600098029330:6964612",
+                                "fileId": "104",
+                                "originalId": "105",
+                                "publicId": "812",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Ice.png",
+                                "additional": {
+                                    "originHash": "a305ff4b9cb734bb85d831e540127022"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Fairy",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600096117540:6963691",
+                                "fileId": "83",
+                                "originalId": "84",
+                                "publicId": "805",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Fairy.png",
+                                "additional": {
+                                    "originHash": "044cfc21f12956a96dc176707ac20829"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "43",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600098412964:6964643",
+                                "fileId": "107",
+                                "originalId": "108",
+                                "publicId": "813",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Normal.png",
+                                "additional": {
+                                    "originHash": "94b4b59d5585be5c10dd541e0b969c59"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Flying",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600096974998:6963937",
+                                "fileId": "92",
+                                "originalId": "93",
+                                "publicId": "808",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Flying.png",
+                                "additional": {
+                                    "originHash": "5a2ad3ab47128fea967a9ec7b2d7e58e"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Poison",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "44",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600098752643:6964887",
+                                "fileId": "110",
+                                "originalId": "111",
+                                "publicId": "814",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Poison.png",
+                                "additional": {
+                                    "originHash": "6189516e06a8a982da79ff6b16122375"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Psychic",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "45",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600099127506:6965121",
+                                "fileId": "113",
+                                "originalId": "114",
+                                "publicId": "815",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Psychic.png",
+                                "additional": {
+                                    "originHash": "9bf74795625c364a54245168ef13dee6"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Rock",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "46",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600099453981:6965163",
+                                "fileId": "116",
+                                "originalId": "117",
+                                "publicId": "816",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Rock.png",
+                                "additional": {
+                                    "originHash": "3d12d415514db565b5fd4215ca6b2230"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Steel",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "47",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600099686156:6965410",
+                                "fileId": "119",
+                                "originalId": "120",
+                                "publicId": "817",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Steel.png",
+                                "additional": {
+                                    "originHash": "306ea8472100404d11bee987473bb957"
+                                }
+                            },
+                            {
+                                "name": "PokemonType_Water",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "48",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1645600099911342:6965433",
+                                "fileId": "122",
+                                "originalId": "123",
+                                "publicId": "818",
+                                "source": "C:\/Users\/sahea\/OneDrive\/Pictures\/Logos\/PokemonType_Water.png",
+                                "additional": {
+                                    "originHash": "230c15765a1428d13d88c72b5c8de42f"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Image",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1578439353746973:149589",
+                        "fileId": "27",
+                        "originalId": "28",
+                        "publicId": "794",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Image 2",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "50",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1645600820169101:7052491",
+                        "fileId": "147",
+                        "originalId": "148",
+                        "publicId": "820",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "data",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "51",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1645624898460946:5090",
+                        "fileId": "149",
+                        "originalId": "18446744073709551615",
+                        "publicId": "821",
+                        "source": "C:\/Users\/sahea\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioozXnQYglngKW\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1645624898460946:5090",
+                        "path_list": [
+                            "data"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1517446348230286:84828",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2856",
+                            "compressedSize": "1407",
+                            "originalRAM": "8192",
+                            "compressedRAM": "1024",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "29",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "42"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1517446348234137:84840",
+                    "v": {
+                        "infos": {
+                            "originalSize": "275653",
+                            "compressedSize": "96691",
+                            "originalRAM": "697303",
+                            "compressedRAM": "87162",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "30",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8e599835d0d45c5879eafb1f474469cd",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "51"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1578438773296461:138252",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5870",
+                            "compressedSize": "2723",
+                            "originalRAM": "230400",
+                            "compressedRAM": "28800",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "54b5e21104a4a7f86b3d510596fdc27e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "44"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600094987947:6963275",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2688",
+                            "compressedSize": "1207",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e20f6d20d723cb41c459b5bf58a9cbc4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "126"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600095258465:6963300",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2805",
+                            "compressedSize": "1280",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "76",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f194ac979940f7b682119eaacd678490",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "125"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600095507591:6963476",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3046",
+                            "compressedSize": "1273",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "79",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a72d17b15caf76869f838405f39db771",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "127"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600095815140:6963661",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2124",
+                            "compressedSize": "1111",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "82",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5cfd35f08f6e838e50d946772c29e571",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "129"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600096117540:6963691",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2691",
+                            "compressedSize": "1197",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "85",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "044cfc21f12956a96dc176707ac20829",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "130"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600096491062:6963887",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2185",
+                            "compressedSize": "1149",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "88",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d6426ce32cb7bdf0206d2b16702349cb",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "128"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600096749069:6963914",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2657",
+                            "compressedSize": "1197",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "91",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "88ee555b7244c2d0da60296032680c3c",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "132"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600096974998:6963937",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2447",
+                            "compressedSize": "1189",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "94",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5a2ad3ab47128fea967a9ec7b2d7e58e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "131"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600097220651:6964143",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2655",
+                            "compressedSize": "1238",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "97",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "49bdeda1d5ce28b5ff01a2d7201ce528",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "133"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600097535745:6964367",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2876",
+                            "compressedSize": "1301",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "100",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "e2d76ce034e830bbd7f017b9736065d1",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "135"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600097796651:6964386",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2331",
+                            "compressedSize": "1131",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "103",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3f4d52626725e168fe71bfd70ac44f09",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "134"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600098029330:6964612",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2768",
+                            "compressedSize": "1240",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "106",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a305ff4b9cb734bb85d831e540127022",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "136"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600098412964:6964643",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2714",
+                            "compressedSize": "1306",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "109",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "94b4b59d5585be5c10dd541e0b969c59",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "138"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600098752643:6964887",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2788",
+                            "compressedSize": "1299",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "112",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "6189516e06a8a982da79ff6b16122375",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "137"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600099127506:6965121",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2889",
+                            "compressedSize": "1233",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "115",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9bf74795625c364a54245168ef13dee6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "139"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600099453981:6965163",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2674",
+                            "compressedSize": "1187",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "118",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3d12d415514db565b5fd4215ca6b2230",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "140"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600099686156:6965410",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2565",
+                            "compressedSize": "1258",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "121",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "306ea8472100404d11bee987473bb957",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "141"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600099911342:6965433",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2554",
+                            "compressedSize": "1187",
+                            "originalRAM": "9216",
+                            "compressedRAM": "1152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "124",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "230c15765a1428d13d88c72b5c8de42f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "142"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1645600754786514:7045300",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5870",
+                            "compressedSize": "2723",
+                            "originalRAM": "230400",
+                            "compressedRAM": "28800",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "145",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "54b5e21104a4a7f86b3d510596fdc27e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "146"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "",
+    "templateUrl": ""
+}
