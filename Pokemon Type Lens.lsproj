@@ -3,7 +3,7 @@
     "document_id": "i0-Y378GnCtuEQ9wdIqq",
     "original_document_id": "5IqyqZEys7DM03BIqS6d",
     "version": "29",
-    "lastChanged": "1645635418281",
+    "lastChanged": "1645818087692",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -147,7 +147,7 @@
             "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "1e84c4423362ee6990ec159f368cc24d",
+            "icon_hash": "f24e56aea2153b12982f0b21f25cc484",
             "icon_path": "icon.png",
             "hints": [
                 "lens_hint_open_your_mouth"
@@ -1014,7 +1014,7 @@
                     },
                     {
                         "k": "780",
-                        "v": "188fe6306203a35141ef74bcc8654514"
+                        "v": "f0b16a727ca9524317575d7cb2d2c4c0"
                     },
                     {
                         "k": "782",
@@ -1170,21 +1170,21 @@
                     },
                     {
                         "k": "821",
-                        "v": "7dc9a502217482e19da064ea86439e2f"
+                        "v": "7f611fb2e0d97c4a8c7fc0650422f237"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-02-23T10:16:41",
+                        "lastModified": "2022-02-25T13:37:49",
                         "name": "Public",
-                        "hash": "eb628cd44b2093644940f7a1e351f59e",
+                        "hash": "2590607f9a08216669aaa5da10df46ad",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-02-23T08:34:12",
+                                "lastModified": "2022-02-25T13:37:03",
                                 "name": "data.js",
-                                "hash": "7dc9a502217482e19da064ea86439e2f",
+                                "hash": "7f611fb2e0d97c4a8c7fc0650422f237",
                                 "children": ""
                             },
                             {
@@ -1224,9 +1224,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-02-23T10:16:41",
+                                "lastModified": "2022-02-25T13:37:49",
                                 "name": "ImageCycle.js",
-                                "hash": "188fe6306203a35141ef74bcc8654514",
+                                "hash": "f0b16a727ca9524317575d7cb2d2c4c0",
                                 "children": ""
                             },
                             {
@@ -1903,8 +1903,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1578438715820473:135680"
+                "resources": [
+                    {
+                        "uid": "1578438609941880:135478",
+                        "path_list": [
+                            "ImageCycle"
+                        ]
+                    }
                 ]
             }
         },

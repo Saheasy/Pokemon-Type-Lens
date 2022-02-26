@@ -7,7 +7,7 @@
 // Our starting texture index
 var currentItemIndex = 0;
 var count = 0;
-const pokemonTotal = 905;
+const pokemonTotal = 1027;
 function weightedRandom(spec) {
   var i, sum=0, r=Math.random();
   for (i in spec) {
